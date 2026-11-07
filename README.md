@@ -80,5 +80,3 @@ This is a **portfolio demo, not a banking or accounting system**. No authenticat
 - `sample_data/`: synthetic valid and invalid datasets
 - `docs/`: architecture, requirements, and CV summary
 
-## Suggested CV bullet (use after running and verifying)
-Built a financial analytics dashboard using Django REST Framework, PostgreSQL, React, and TypeScript; implemented CSV ingestion, duplicate/missing-data checks, SQL-based cash-flow analytics, interactive visualizations, and downloadable reports.
