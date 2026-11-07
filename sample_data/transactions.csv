@@ -1,0 +1,241 @@
+external_id,occurred_on,amount,currency,category,merchant,description
+TXN-00001,2026-02-27,-197,USD,Food,Fresh Market,Synthetic sample
+TXN-00002,2026-05-21,-65,USD,Transport,Metro,Synthetic sample
+TXN-00003,2026-03-13,-34,USD,Entertainment,Cinema,Synthetic sample
+TXN-00004,2026-10-07,-159,USD,Food,Fresh Market,Synthetic sample
+TXN-00005,2026-08-05,-15,USD,Food,Fresh Market,Synthetic sample
+TXN-00006,2026-02-17,-67,USD,Transport,Metro,Synthetic sample
+TXN-00007,2026-09-16,-14,USD,Healthcare,Clinic,Synthetic sample
+TXN-00008,2026-10-15,-191,USD,Transport,Metro,Synthetic sample
+TXN-00009,2026-10-07,-64,USD,Utilities,Utility Co,Synthetic sample
+TXN-00010,2026-08-18,-79,USD,Healthcare,Clinic,Synthetic sample
+TXN-00011,2026-01-04,-186,USD,Transport,Metro,Synthetic sample
+TXN-00012,2026-08-05,-79,USD,Shopping,Retail Hub,Synthetic sample
+TXN-00013,2026-03-21,2581,USD,Salary,Employer,Synthetic sample
+TXN-00014,2026-06-22,-31,USD,Food,Fresh Market,Synthetic sample
+TXN-00015,2026-07-14,-99,USD,Food,Fresh Market,Synthetic sample
+TXN-00016,2026-06-26,-75,USD,Healthcare,Clinic,Synthetic sample
+TXN-00017,2026-01-23,-125,USD,Entertainment,Cinema,Synthetic sample
+TXN-00018,2026-10-02,-257,USD,Food,Fresh Market,Synthetic sample
+TXN-00019,2026-07-13,-149,USD,Food,Fresh Market,Synthetic sample
+TXN-00020,2026-05-31,-166,USD,Entertainment,Cinema,Synthetic sample
+TXN-00021,2026-07-05,-57,USD,Healthcare,Clinic,Synthetic sample
+TXN-00022,2026-02-05,-177,USD,Food,Fresh Market,Synthetic sample
+TXN-00023,2026-04-27,-260,USD,Shopping,Retail Hub,Synthetic sample
+TXN-00024,2026-02-10,-229,USD,Transport,Metro,Synthetic sample
+TXN-00025,2026-02-21,-79,USD,Utilities,Utility Co,Synthetic sample
+TXN-00026,2026-08-21,3194,USD,Salary,Employer,Synthetic sample
+TXN-00027,2026-03-25,-98,USD,Shopping,Retail Hub,Synthetic sample
+TXN-00028,2026-04-18,-76,USD,Entertainment,Cinema,Synthetic sample
+TXN-00029,2026-02-06,-170,USD,Healthcare,Clinic,Synthetic sample
+TXN-00030,2026-03-29,-194,USD,Healthcare,Clinic,Synthetic sample
+TXN-00031,2026-05-06,-126,USD,Transport,Metro,Synthetic sample
+TXN-00032,2026-07-14,-244,USD,Shopping,Retail Hub,Synthetic sample
+TXN-00033,2026-10-13,-183,USD,Transport,Metro,Synthetic sample
+TXN-00034,2026-06-16,-66,USD,Food,Fresh Market,Synthetic sample
+TXN-00035,2026-01-17,-110,USD,Shopping,Retail Hub,Synthetic sample
+TXN-00036,2026-05-18,-62,USD,Food,Fresh Market,Synthetic sample
+TXN-00037,2026-10-18,-88,USD,Entertainment,Cinema,Synthetic sample
+TXN-00038,2026-04-19,-135,USD,Entertainment,Cinema,Synthetic sample
+TXN-00039,2026-07-22,3579,USD,Salary,Employer,Synthetic sample
+TXN-00040,2026-03-15,-43,USD,Shopping,Retail Hub,Synthetic sample
+TXN-00041,2026-05-07,-151,USD,Entertainment,Cinema,Synthetic sample
+TXN-00042,2026-10-03,-199,USD,Shopping,Retail Hub,Synthetic sample
+TXN-00043,2026-10-27,-237,USD,Utilities,Utility Co,Synthetic sample
+TXN-00044,2026-10-26,-100,USD,Utilities,Utility Co,Synthetic sample
+TXN-00045,2026-04-23,-138,USD,Transport,Metro,Synthetic sample
+TXN-00046,2026-09-10,-201,USD,Food,Fresh Market,Synthetic sample
+TXN-00047,2026-01-25,-47,USD,Food,Fresh Market,Synthetic sample
+TXN-00048,2026-03-23,-116,USD,Entertainment,Cinema,Synthetic sample
+TXN-00049,2026-02-02,-105,USD,Utilities,Utility Co,Synthetic sample
+TXN-00050,2026-08-28,-72,USD,Healthcare,Clinic,Synthetic sample
+TXN-00051,2026-10-11,-182,USD,Food,Fresh Market,Synthetic sample
+TXN-00052,2026-02-28,3899,USD,Salary,Employer,Synthetic sample
+TXN-00053,2026-05-17,-95,USD,Entertainment,Cinema,Synthetic sample
+TXN-00054,2026-02-27,-119,USD,Shopping,Retail Hub,Synthetic sample
+TXN-00055,2026-03-22,-8,USD,Utilities,Utility Co,Synthetic sample
+TXN-00056,2026-05-15,-203,USD,Healthcare,Clinic,Synthetic sample
+TXN-00057,2026-04-02,-241,USD,Healthcare,Clinic,Synthetic sample
+TXN-00058,2026-02-24,-84,USD,Entertainment,Cinema,Synthetic sample
+TXN-00059,2026-09-17,-58,USD,Healthcare,Clinic,Synthetic sample
+TXN-00060,2026-03-20,-203,USD,Shopping,Retail Hub,Synthetic sample
+TXN-00061,2026-03-24,-252,USD,Healthcare,Clinic,Synthetic sample
+TXN-00062,2026-09-29,-161,USD,Food,Fresh Market,Synthetic sample
+TXN-00063,2026-06-15,-12,USD,Utilities,Utility Co,Synthetic sample
+TXN-00064,2026-02-27,-232,USD,Shopping,Retail Hub,Synthetic sample
+TXN-00065,2026-06-07,2680,USD,Salary,Employer,Synthetic sample
+TXN-00066,2026-01-30,-232,USD,Transport,Metro,Synthetic sample
+TXN-00067,2026-10-18,-29,USD,Food,Fresh Market,Synthetic sample
+TXN-00068,2026-09-06,-258,USD,Food,Fresh Market,Synthetic sample
+TXN-00069,2026-09-30,-40,USD,Transport,Metro,Synthetic sample
+TXN-00070,2026-09-01,-50,USD,Healthcare,Clinic,Synthetic sample
+TXN-00071,2026-05-16,-231,USD,Healthcare,Clinic,Synthetic sample
+TXN-00072,2026-08-05,-245,USD,Transport,Metro,Synthetic sample
+TXN-00073,2026-10-04,-184,USD,Entertainment,Cinema,Synthetic sample
+TXN-00074,2026-04-13,-87,USD,Entertainment,Cinema,Synthetic sample
+TXN-00075,2026-07-24,-174,USD,Entertainment,Cinema,Synthetic sample
+TXN-00076,2026-07-11,-238,USD,Utilities,Utility Co,Synthetic sample
+TXN-00077,2026-09-22,-38,USD,Utilities,Utility Co,Synthetic sample
+TXN-00078,2026-05-07,2620,USD,Salary,Employer,Synthetic sample
+TXN-00079,2026-02-02,-13,USD,Shopping,Retail Hub,Synthetic sample
+TXN-00080,2026-10-11,-158,USD,Transport,Metro,Synthetic sample
+TXN-00081,2026-04-23,-26,USD,Food,Fresh Market,Synthetic sample
+TXN-00082,2026-01-31,-25,USD,Transport,Metro,Synthetic sample
+TXN-00083,2026-01-17,-26,USD,Shopping,Retail Hub,Synthetic sample
+TXN-00084,2026-09-21,-79,USD,Transport,Metro,Synthetic sample
+TXN-00085,2026-09-06,-146,USD,Transport,Metro,Synthetic sample
+TXN-00086,2026-03-09,-247,USD,Entertainment,Cinema,Synthetic sample
+TXN-00087,2026-10-20,-129,USD,Healthcare,Clinic,Synthetic sample
+TXN-00088,2026-05-05,-214,USD,Utilities,Utility Co,Synthetic sample
+TXN-00089,2026-07-28,-32,USD,Transport,Metro,Synthetic sample
+TXN-00090,2026-02-19,-118,USD,Entertainment,Cinema,Synthetic sample
+TXN-00091,2026-07-01,3434,USD,Salary,Employer,Synthetic sample
+TXN-00092,2026-07-30,-229,USD,Utilities,Utility Co,Synthetic sample
+TXN-00093,2026-01-28,-175,USD,Entertainment,Cinema,Synthetic sample
+TXN-00094,2026-02-20,-111,USD,Food,Fresh Market,Synthetic sample
+TXN-00095,2026-06-23,-71,USD,Food,Fresh Market,Synthetic sample
+TXN-00096,2026-04-09,-145,USD,Transport,Metro,Synthetic sample
+TXN-00097,2026-08-18,-116,USD,Transport,Metro,Synthetic sample
+TXN-00098,2026-04-04,-126,USD,Shopping,Retail Hub,Synthetic sample
+TXN-00099,2026-05-08,-121,USD,Food,Fresh Market,Synthetic sample
+TXN-00100,2026-10-09,-20,USD,Food,Fresh Market,Synthetic sample
+TXN-00101,2026-10-04,-256,USD,Food,Fresh Market,Synthetic sample
+TXN-00102,2026-02-17,-50,USD,Transport,Metro,Synthetic sample
+TXN-00103,2026-07-28,-131,USD,Utilities,Utility Co,Synthetic sample
+TXN-00104,2026-04-20,3342,USD,Salary,Employer,Synthetic sample
+TXN-00105,2026-01-31,-105,USD,Transport,Metro,Synthetic sample
+TXN-00106,2026-01-02,-75,USD,Utilities,Utility Co,Synthetic sample
+TXN-00107,2026-08-21,-116,USD,Shopping,Retail Hub,Synthetic sample
+TXN-00108,2026-10-12,-191,USD,Entertainment,Cinema,Synthetic sample
+TXN-00109,2026-09-07,-56,USD,Transport,Metro,Synthetic sample
+TXN-00110,2026-06-01,-255,USD,Transport,Metro,Synthetic sample
+TXN-00111,2026-01-30,-196,USD,Healthcare,Clinic,Synthetic sample
+TXN-00112,2026-10-05,-199,USD,Food,Fresh Market,Synthetic sample
+TXN-00113,2026-06-10,-20,USD,Food,Fresh Market,Synthetic sample
+TXN-00114,2026-10-27,-136,USD,Utilities,Utility Co,Synthetic sample
+TXN-00115,2026-09-29,-22,USD,Transport,Metro,Synthetic sample
+TXN-00116,2026-09-18,-225,USD,Food,Fresh Market,Synthetic sample
+TXN-00117,2026-04-06,1980,USD,Salary,Employer,Synthetic sample
+TXN-00118,2026-02-04,-228,USD,Entertainment,Cinema,Synthetic sample
+TXN-00119,2026-05-01,-38,USD,Utilities,Utility Co,Synthetic sample
+TXN-00120,2026-10-19,-156,USD,Transport,Metro,Synthetic sample
+TXN-00121,2026-01-21,-28,USD,Healthcare,Clinic,Synthetic sample
+TXN-00122,2026-08-03,-157,USD,Entertainment,Cinema,Synthetic sample
+TXN-00123,2026-10-17,-88,USD,Healthcare,Clinic,Synthetic sample
+TXN-00124,2026-05-14,-179,USD,Transport,Metro,Synthetic sample
+TXN-00125,2026-06-10,-75,USD,Transport,Metro,Synthetic sample
+TXN-00126,2026-07-22,-179,USD,Transport,Metro,Synthetic sample
+TXN-00127,2026-06-03,-88,USD,Utilities,Utility Co,Synthetic sample
+TXN-00128,2026-02-07,-125,USD,Food,Fresh Market,Synthetic sample
+TXN-00129,2026-10-16,-26,USD,Food,Fresh Market,Synthetic sample
+TXN-00130,2026-10-03,2573,USD,Salary,Employer,Synthetic sample
+TXN-00131,2026-09-17,-41,USD,Shopping,Retail Hub,Synthetic sample
+TXN-00132,2026-06-28,-233,USD,Food,Fresh Market,Synthetic sample
+TXN-00133,2026-05-06,-80,USD,Shopping,Retail Hub,Synthetic sample
+TXN-00134,2026-03-22,-221,USD,Utilities,Utility Co,Synthetic sample
+TXN-00135,2026-10-06,-85,USD,Entertainment,Cinema,Synthetic sample
+TXN-00136,2026-09-28,-178,USD,Food,Fresh Market,Synthetic sample
+TXN-00137,2026-10-11,-246,USD,Shopping,Retail Hub,Synthetic sample
+TXN-00138,2026-02-23,-75,USD,Transport,Metro,Synthetic sample
+TXN-00139,2026-03-01,-198,USD,Food,Fresh Market,Synthetic sample
+TXN-00140,2026-10-11,-77,USD,Transport,Metro,Synthetic sample
+TXN-00141,2026-05-25,-61,USD,Healthcare,Clinic,Synthetic sample
+TXN-00142,2026-06-25,-183,USD,Transport,Metro,Synthetic sample
+TXN-00143,2026-05-16,3770,USD,Salary,Employer,Synthetic sample
+TXN-00144,2026-09-08,-239,USD,Shopping,Retail Hub,Synthetic sample
+TXN-00145,2026-01-27,-170,USD,Food,Fresh Market,Synthetic sample
+TXN-00146,2026-08-05,-19,USD,Shopping,Retail Hub,Synthetic sample
+TXN-00147,2026-01-02,-205,USD,Shopping,Retail Hub,Synthetic sample
+TXN-00148,2026-03-08,-258,USD,Entertainment,Cinema,Synthetic sample
+TXN-00149,2026-05-15,-197,USD,Transport,Metro,Synthetic sample
+TXN-00150,2026-08-15,-188,USD,Healthcare,Clinic,Synthetic sample
+TXN-00151,2026-08-07,-10,USD,Healthcare,Clinic,Synthetic sample
+TXN-00152,2026-02-27,-249,USD,Food,Fresh Market,Synthetic sample
+TXN-00153,2026-03-18,-17,USD,Healthcare,Clinic,Synthetic sample
+TXN-00154,2026-07-09,-149,USD,Healthcare,Clinic,Synthetic sample
+TXN-00155,2026-03-17,-40,USD,Utilities,Utility Co,Synthetic sample
+TXN-00156,2026-01-22,2962,USD,Salary,Employer,Synthetic sample
+TXN-00157,2026-07-06,-238,USD,Food,Fresh Market,Synthetic sample
+TXN-00158,2026-07-03,-182,USD,Transport,Metro,Synthetic sample
+TXN-00159,2026-05-08,-34,USD,Entertainment,Cinema,Synthetic sample
+TXN-00160,2026-07-01,-234,USD,Healthcare,Clinic,Synthetic sample
+TXN-00161,2026-07-28,-199,USD,Healthcare,Clinic,Synthetic sample
+TXN-00162,2026-03-21,-229,USD,Transport,Metro,Synthetic sample
+TXN-00163,2026-03-25,-233,USD,Transport,Metro,Synthetic sample
+TXN-00164,2026-07-31,-53,USD,Food,Fresh Market,Synthetic sample
+TXN-00165,2026-06-20,-213,USD,Utilities,Utility Co,Synthetic sample
+TXN-00166,2026-05-08,-48,USD,Shopping,Retail Hub,Synthetic sample
+TXN-00167,2026-02-25,-231,USD,Utilities,Utility Co,Synthetic sample
+TXN-00168,2026-01-20,-64,USD,Utilities,Utility Co,Synthetic sample
+TXN-00169,2026-04-13,3585,USD,Salary,Employer,Synthetic sample
+TXN-00170,2026-06-29,-218,USD,Shopping,Retail Hub,Synthetic sample
+TXN-00171,2026-04-27,-14,USD,Transport,Metro,Synthetic sample
+TXN-00172,2026-04-09,-92,USD,Utilities,Utility Co,Synthetic sample
+TXN-00173,2026-05-23,-255,USD,Food,Fresh Market,Synthetic sample
+TXN-00174,2026-05-23,-172,USD,Shopping,Retail Hub,Synthetic sample
+TXN-00175,2026-09-18,-181,USD,Utilities,Utility Co,Synthetic sample
+TXN-00176,2026-10-02,-248,USD,Shopping,Retail Hub,Synthetic sample
+TXN-00177,2026-01-15,-232,USD,Food,Fresh Market,Synthetic sample
+TXN-00178,2026-05-14,-156,USD,Transport,Metro,Synthetic sample
+TXN-00179,2026-05-16,-35,USD,Food,Fresh Market,Synthetic sample
+TXN-00180,2026-08-11,-194,USD,Shopping,Retail Hub,Synthetic sample
+TXN-00181,2026-06-10,-163,USD,Utilities,Utility Co,Synthetic sample
+TXN-00182,2026-09-19,2173,USD,Salary,Employer,Synthetic sample
+TXN-00183,2026-07-17,-56,USD,Healthcare,Clinic,Synthetic sample
+TXN-00184,2026-05-11,-189,USD,Food,Fresh Market,Synthetic sample
+TXN-00185,2026-08-12,-141,USD,Food,Fresh Market,Synthetic sample
+TXN-00186,2026-10-03,-192,USD,Entertainment,Cinema,Synthetic sample
+TXN-00187,2026-04-11,-118,USD,Shopping,Retail Hub,Synthetic sample
+TXN-00188,2026-02-05,-243,USD,Entertainment,Cinema,Synthetic sample
+TXN-00189,2026-06-19,-88,USD,Healthcare,Clinic,Synthetic sample
+TXN-00190,2026-03-05,-238,USD,Entertainment,Cinema,Synthetic sample
+TXN-00191,2026-06-03,-87,USD,Healthcare,Clinic,Synthetic sample
+TXN-00192,2026-07-29,-111,USD,Shopping,Retail Hub,Synthetic sample
+TXN-00193,2026-06-01,-40,USD,Healthcare,Clinic,Synthetic sample
+TXN-00194,2026-04-09,-178,USD,Utilities,Utility Co,Synthetic sample
+TXN-00195,2026-07-14,2412,USD,Salary,Employer,Synthetic sample
+TXN-00196,2026-10-19,-111,USD,Shopping,Retail Hub,Synthetic sample
+TXN-00197,2026-10-08,-85,USD,Food,Fresh Market,Synthetic sample
+TXN-00198,2026-05-27,-118,USD,Transport,Metro,Synthetic sample
+TXN-00199,2026-10-24,-175,USD,Healthcare,Clinic,Synthetic sample
+TXN-00200,2026-06-14,-121,USD,Utilities,Utility Co,Synthetic sample
+TXN-00201,2026-08-15,-62,USD,Entertainment,Cinema,Synthetic sample
+TXN-00202,2026-09-19,-211,USD,Utilities,Utility Co,Synthetic sample
+TXN-00203,2026-03-28,-29,USD,Entertainment,Cinema,Synthetic sample
+TXN-00204,2026-05-26,-177,USD,Healthcare,Clinic,Synthetic sample
+TXN-00205,2026-06-21,-217,USD,Food,Fresh Market,Synthetic sample
+TXN-00206,2026-05-01,-87,USD,Entertainment,Cinema,Synthetic sample
+TXN-00207,2026-04-26,-45,USD,Transport,Metro,Synthetic sample
+TXN-00208,2026-01-13,1889,USD,Salary,Employer,Synthetic sample
+TXN-00209,2026-05-06,-164,USD,Utilities,Utility Co,Synthetic sample
+TXN-00210,2026-02-07,-114,USD,Utilities,Utility Co,Synthetic sample
+TXN-00211,2026-10-22,-191,USD,Transport,Metro,Synthetic sample
+TXN-00212,2026-07-16,-110,USD,Utilities,Utility Co,Synthetic sample
+TXN-00213,2026-05-05,-175,USD,Transport,Metro,Synthetic sample
+TXN-00214,2026-01-03,-207,USD,Food,Fresh Market,Synthetic sample
+TXN-00215,2026-08-06,-53,USD,Transport,Metro,Synthetic sample
+TXN-00216,2026-09-23,-20,USD,Utilities,Utility Co,Synthetic sample
+TXN-00217,2026-10-13,-242,USD,Transport,Metro,Synthetic sample
+TXN-00218,2026-03-04,-42,USD,Utilities,Utility Co,Synthetic sample
+TXN-00219,2026-08-26,-143,USD,Entertainment,Cinema,Synthetic sample
+TXN-00220,2026-10-14,-89,USD,Healthcare,Clinic,Synthetic sample
+TXN-00221,2026-08-15,3767,USD,Salary,Employer,Synthetic sample
+TXN-00222,2026-08-07,-122,USD,Healthcare,Clinic,Synthetic sample
+TXN-00223,2026-03-23,-228,USD,Entertainment,Cinema,Synthetic sample
+TXN-00224,2026-09-01,-74,USD,Utilities,Utility Co,Synthetic sample
+TXN-00225,2026-05-07,-78,USD,Entertainment,Cinema,Synthetic sample
+TXN-00226,2026-09-24,-168,USD,Utilities,Utility Co,Synthetic sample
+TXN-00227,2026-05-03,-120,USD,Shopping,Retail Hub,Synthetic sample
+TXN-00228,2026-02-09,-81,USD,Entertainment,Cinema,Synthetic sample
+TXN-00229,2026-05-01,-93,USD,Shopping,Retail Hub,Synthetic sample
+TXN-00230,2026-06-13,-28,USD,Healthcare,Clinic,Synthetic sample
+TXN-00231,2026-03-12,-67,USD,Transport,Metro,Synthetic sample
+TXN-00232,2026-07-16,-47,USD,Entertainment,Cinema,Synthetic sample
+TXN-00233,2026-04-20,-114,USD,Food,Fresh Market,Synthetic sample
+TXN-00234,2026-07-28,3055,USD,Salary,Employer,Synthetic sample
+TXN-00235,2026-10-05,-114,USD,Utilities,Utility Co,Synthetic sample
+TXN-00236,2026-02-01,-221,USD,Transport,Metro,Synthetic sample
+TXN-00237,2026-08-04,-239,USD,Utilities,Utility Co,Synthetic sample
+TXN-00238,2026-10-27,-13,USD,Entertainment,Cinema,Synthetic sample
+TXN-00239,2026-10-22,-130,USD,Utilities,Utility Co,Synthetic sample
+TXN-00240,2026-01-04,-84,USD,Shopping,Retail Hub,Synthetic sample

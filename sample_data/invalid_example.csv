@@ -1,0 +1,5 @@
+external_id,occurred_on,amount,currency,category,merchant,description
+DUP-001,2026-01-01,-20,USD,Food,Cafe,Lunch
+DUP-001,2026-01-02,-30,USD,Food,Cafe,Repeated ID
+BAD-002,not-a-date,50,USD,Shopping,Store,Bad date
+BAD-003,2026-02-02,,USD,Shopping,Store,Missing amount
